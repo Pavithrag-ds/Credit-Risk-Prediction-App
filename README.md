@@ -1,3 +1,6 @@
+## Live App
+[Open Streamlit App](https://credit-risk-prediction-app-ecxt3uriawwzhnwboecsqz.streamlit.app))
+
 # Credit Risk Prediction App
 
 ## Overview
@@ -30,8 +33,6 @@ This project predicts whether a customer is a Good Risk or Bad Risk using Machin
 - Risk analysis logic
 - Model comparison dashboard
 
-## Live App
-[Open Streamlit App](https://credit-risk-prediction-app-ecxt3uriawwzhnwboecsqz.streamlit.app))
 
 ## GitHub Repository
 YOUR_GITHUB_LINK
