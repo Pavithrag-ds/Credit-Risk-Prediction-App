@@ -32,7 +32,3 @@ This project predicts whether a customer is a Good Risk or Bad Risk using Machin
 - Applicant summary
 - Risk analysis logic
 - Model comparison dashboard
-
-
-## GitHub Repository
-YOUR_GITHUB_LINK
